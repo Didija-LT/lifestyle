@@ -1,6 +1,5 @@
 .banner{
 	background-image: url(../../image/avat.jpg);
-	color: #FAF8FA;
 	padding: 150px 0px;
 	background-size: cover;
 }
@@ -22,14 +21,12 @@
 
 .bannermorning{
 	background-image: url(../../image/morning1.jpg);
-	color: #FAF8FA;
 	padding: 150px 0px;
 	background-size: 400px 300px;
 }
 
 .bannerfood{
 	background-image: url(../../image/food1.jpg);
-	color: #FAF8FA;
 	padding: 150px 0px;
 	background-size: 400px 300px;
 
@@ -37,14 +34,12 @@
 
 .bannerpositive{
 	background-image: url(../../image/positive1.jpg);
-	color: #FAF8FA;
 	padding: 150px 0px;
 	background-size: 400px 300px;
 }
 
 .bannersport{
 	background-image: url(../../image/sport1.jpg);
-	color: #FAF8FA;
 	padding: 150px 0px;
 	background-size:400px 300px;
 }
