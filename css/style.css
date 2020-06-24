@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Euphoria+Script&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Serif:ital,wght@1,400;1,700&family=Yanone+Kaffeesatz:wght@300;400&display=swap');
 
 @import url("components/container.css");
 @import url("components/avatar.css");
@@ -15,7 +16,7 @@ body{
 }
 
 h1 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lobster', cursive;
 	font-weight: bold;
 
 }
@@ -26,7 +27,7 @@ h2 {
 
 }
 h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Noto Serif', serif;
 	color: #010105 ; 
 	font-weight: bold;
 
@@ -35,7 +36,7 @@ h3 {
 
 
 a{
-	font-family: 'Euphoria Script', cursive;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
 	text-decoration: none;
 	color: #06020C;
 }
