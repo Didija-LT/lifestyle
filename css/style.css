@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Euphoria+Script&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/botten.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body{
+ font-family: 'Balsamiq Sans', cursive;
+ font-size: 18px;
+ margin: 0px;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+
+}
+h2 {
+	font-family: 'Roboto', sans-serif;
+	color: #010FA8; 
+	font-weight: bold;
+
+}
+h3 {
+	font-family: 'Roboto', sans-serif;
+	color: #010105 ; 
+	font-weight: bold;
+
+
+}
+
+
+a{
+	font-family: 'Euphoria Script', cursive;
+	text-decoration: none;
+	color: #06020C;
+}
+
+
+
