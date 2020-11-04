@@ -35,7 +35,7 @@ a:hover {
 
 }
 
-/*custom design with class*/
+/custom design with class/
 
 .continer{
   width: 700px;
@@ -56,7 +56,6 @@ a:hover {
   }
 }
 
-
 .card-white{
   background-color: white;
   padding: 20px;
@@ -67,7 +66,7 @@ a:hover {
 }
 
 .img-circle{
-  border-radius: 40%;
+  border-radius: 70%;
 
 }
 
@@ -98,7 +97,10 @@ a:hover {
   color: rgba(220,230,210);
 } 
 
-
+.liste-inline i{
+  font-size: 50px;
+  color: rgba(230,230,230);
+} 
 
 .liste-inline i:hover{
   color: blue;
@@ -109,11 +111,3 @@ a:hover {
     margin-bottom: 40px;
 
 }
-
-
-
-
-
-
-
-
