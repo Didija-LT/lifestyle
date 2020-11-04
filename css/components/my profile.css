@@ -66,9 +66,9 @@ a:hover {
 }
 
 .img-circle{
-   width: 60px;
-	  height: 60px;
-	  border-radius: 60%;
+   width: 70px;
+   height: 70px;
+   border-radius: 60%;
 }
 
 
@@ -81,6 +81,13 @@ a:hover {
 
   background-color: black;
   color: purple;
+}
+.btn-bleu{
+        background-color: #547CEE;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white ;
+	font-weight: normal;
 }
    
 .liste-inline {
