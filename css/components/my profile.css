@@ -66,8 +66,9 @@ a:hover {
 }
 
 .img-circle{
-  border-radius: 70%;
-
+   width: 60px;
+	  height: 60px;
+	  border-radius: 60%;
 }
 
 
